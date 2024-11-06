@@ -1,1 +1,2 @@
 # CSE310-PJ02
+This project involves implementing a min-heap data structure in C, focusing on heap operations such as Heapify, BuildHeap, ExtractMin, DecreaseKey, and Insert. The program manages dynamic memory and handles input/output via command-line arguments, reading from and writing to files. It supports interactive instructions like Stop, Read, PrintArray, PrintHeap, BuildHeap, and Insert, with error handling for invalid operations. The project is modularized into separate files for data structures, utilities, and heap functions, and compiled using a provided Makefile.
